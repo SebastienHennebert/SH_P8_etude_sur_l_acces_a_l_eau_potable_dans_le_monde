@@ -1,6 +1,7 @@
 PROJET 8 DE LA FORMATION OPENCLASSROOMS : ETUDE SUR L'ACCES  L'EAU POTABLE DANS LE MONDE
 
 Projet réalisé sous Tableau Desktop.
+
 Lien d'accès à l'histoire Tableau : https://public.tableau.com/shared/FPM439RCX?:display_count=n&:origin=viz_share_link
 
 Mission : L'ONG DWFA, qui souhaite donner accès à l'eau potable partout dans le monde, a fait une demande de financement auprès d'un bailleurs en présentant 3 domaines d'expertise : Création de services d’accès à l’eau potable ; Modernisation de services d’accès à l’eau déjà existants ; Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
