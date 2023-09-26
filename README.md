@@ -13,3 +13,4 @@ Démarche :
 - Réalisation d'un blueprint présentant les indicateurs choisis et la visualisation associée
 - Elaboration d'un mockup de l'histoire Tableau
 - Construction des tableaux de bord et de l'histoire Tableau
+- Sélection de 3 pays potentiels pour intervention
