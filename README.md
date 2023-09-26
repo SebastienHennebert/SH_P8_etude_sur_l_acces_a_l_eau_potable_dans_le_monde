@@ -1,4 +1,4 @@
-PROJET 8 DE LA FORMATION OPENCLASSROOMS : ETUDE SUR L'ACCES  L'EAU POTABLE DANS LE MONDE
+Projet 8 de la formation Data Analyst Openclassrooms : ETUDE SUR L'ACCES  L'EAU POTABLE DANS LE MONDE
 
 Projet réalisé sous Tableau Desktop.
 
