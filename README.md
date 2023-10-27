@@ -2,7 +2,7 @@
 
 Projet réalisé sous Tableau Desktop.
 
-Lien d'accès à l'histoire Tableau : https://public.tableau.com/shared/FPM439RCX?:display_count=n&:origin=viz_share_link
+Lien d'accès à l'histoire Tableau : https://public.tableau.com/app/profile/s.bastien.hennebert/viz/Etudesurlaccsleaupotabledanslemonde_16847480720230/Histoire1
 
 Mission : L'ONG DWFA, qui souhaite donner accès à l'eau potable partout dans le monde, a fait une demande de financement auprès d'un bailleurs en présentant 3 domaines d'expertise : Création de services d’accès à l’eau potable ; Modernisation de services d’accès à l’eau déjà existants ; Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
 
