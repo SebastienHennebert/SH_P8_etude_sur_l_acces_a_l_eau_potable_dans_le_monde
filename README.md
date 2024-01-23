@@ -27,7 +27,7 @@ Démarche :
 
 Project executed with Tableau Desktop.
 
-Link to Tableau story: [Access the Tableau Story](https://public.tableau.com/app/profile/s.bastien.hennebert/viz/Etudesurlaccsleaupotabledanslemonde_16847480720230/Histoire1)
+Link to Tableau story: (https://public.tableau.com/app/profile/s.bastien.hennebert/viz/Etudesurlaccsleaupotabledanslemonde_16847480720230/Histoire1)
 
 Context: The NGO DWFA, aiming to provide access to clean water worldwide, has requested funding from a donor by presenting three areas of expertise: Establishing access to clean water services; Modernizing existing clean water services; Consulting with administrations/governments on water access policies.
 
